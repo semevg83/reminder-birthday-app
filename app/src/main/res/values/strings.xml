@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reminder Birthday App</string>
+    <string name="app_summary">Track birthdays and important reminders in one place.</string>
+    <string name="birthday_section">Birthday reminders</string>
+    <string name="birthday_sample">Anna — 12 October</string>
+    <string name="tasks_section">Tasks</string>
+    <string name="task_sample">Buy a gift, call family, schedule the event</string>
+</resources>
